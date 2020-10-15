@@ -1,0 +1,17 @@
+<listado>
+	<cuenta numCuenta="ES05 4158 4159 7485 6352 4800">
+		<titular dni="5671001D">Ramon Perez</titular>
+		<saldoActual moneda="euros">12000</saldoActual>
+		<fechaCreacion>13-abril-2012</fechaCreacion>
+	</cuenta>
+	<cuenta numCuenta="ES05 1758 4185 9684 2200 1420">
+		<titular dni="39812341C">Carmen Diaz</titular>
+		<saldoActual moneda="dolares">1900</saldoActual>
+		<fechaCreacion>15-febrero-2011</fechaCreacion>
+	</cuenta>
+	<cuenta numCuenta="ES05 7485 7866 2485 0005 6241">
+		<titular dni="05481759D">Marta Sanchez</titular>
+		<saldoActual moneda="libras">5000</saldoActual>
+		<fechaCreacion>28-marzo-2016</fechaCreacion>
+	</cuenta>
+</listado>
